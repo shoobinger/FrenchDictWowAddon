@@ -1,0 +1,8 @@
+## Interface: 90207
+## Version: 1.0.0
+## Title: Dict
+## Notes: Search dictionary for words
+## Author: shoobinger
+
+DB.lua
+Dict.lua
